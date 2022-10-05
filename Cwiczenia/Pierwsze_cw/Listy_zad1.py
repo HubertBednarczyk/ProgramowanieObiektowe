@@ -156,7 +156,7 @@ def func7():
             print('zle')
     print(f"wpisane numery to: {wynik}")
 
-#print('zadanie7:',func7())
+print('zadanie7:',func7())
 
 #ZAD 8
 def func8():
