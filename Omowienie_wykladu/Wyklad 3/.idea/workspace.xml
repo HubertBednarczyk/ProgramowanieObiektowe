@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31fab7be-40f2-4097-85ce-77189011b784" name="Changes" comment="" />
+    <list default="true" id="4518421d-596b-4b48-b89e-a3a3930f0dc3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,20 +18,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FzkmmMl5tILxFhr5bZohLHfb0d" />
+  <component name="ProjectId" id="2GGXq2g588H3JwnULurmnHQuJdO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Wyklad2_InstrukcjaContinue">
-    <configuration name="Wyklad1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Omowienie_wykladu" />
+  <component name="RunManager" selected="Python.Wyklad3_FunkcjaMain">
+    <configuration name="Wyklad3_FunkcjaMain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Wyklad 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -42,7 +42,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Studia\Drugi Rok\Programowanie_obiektowe\ProgramowanieObiektowe\Omowienie_wykladu\Wyklad1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad3_FunkcjaMain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,8 +51,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wyklad2_InstrukcjaContinue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Omowienie_wykladu" />
+    <configuration name="Wyklad3_Funkcje (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Wyklad 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -63,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad2_InstrukcjaContinue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad3_Funkcje.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,8 +72,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wyklad2_PetlaWhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Omowienie_wykladu" />
+    <configuration name="Wyklad3_Funkcje" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Wyklad 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -84,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad2_PetlaWhile.py" />
+      <option name="SCRIPT_NAME" value="C:\Studia\Drugi Rok\Programowanie_obiektowe\ProgramowanieObiektowe\Omowienie_wykladu\Wyklad 3\Wyklad3_Funkcje.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,8 +93,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wyklad2_Zbiory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Omowienie_wykladu" />
+    <configuration name="Wyklad3_Wartosci_Domyslne_argumentow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Wyklad 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -105,49 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad2_Zbiory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Wyklad2_instrukcje_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Omowienie_wykladu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad2_instrukcje_if.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Wyklad2_pętla_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Omowienie_wykladu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad2_pętla_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wyklad3_Wartosci_Domyslne_argumentow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,22 +116,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Wyklad2_InstrukcjaContinue" />
-        <item itemvalue="Python.Wyklad2_PetlaWhile" />
-        <item itemvalue="Python.Wyklad2_pętla_for" />
-        <item itemvalue="Python.Wyklad2_instrukcje_if" />
-        <item itemvalue="Python.Wyklad2_Zbiory" />
+        <item itemvalue="Python.Wyklad3_FunkcjaMain" />
+        <item itemvalue="Python.Wyklad3_Wartosci_Domyslne_argumentow" />
+        <item itemvalue="Python.Wyklad3_Funkcje (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="31fab7be-40f2-4097-85ce-77189011b784" name="Changes" comment="" />
-      <created>1665502460730</created>
+      <changelist id="4518421d-596b-4b48-b89e-a3a3930f0dc3" name="Changes" comment="" />
+      <created>1666016081226</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665502460730</updated>
+      <updated>1666016081226</updated>
     </task>
     <servers />
   </component>
@@ -192,7 +148,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Wyklad1.py</url>
+          <url>file://$PROJECT_DIR$/Wyklad3_Funkcje.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
