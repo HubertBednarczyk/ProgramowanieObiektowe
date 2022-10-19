@@ -1,47 +1,58 @@
 #Zad 1
-# import math
-class Punkt:
-    def __init__(self, x: float, y: float) -> None:
-        self.x = x
-        self.y = y
+# class Punkt:
+#     def __init__(self, x: float, y: float) -> None:
+#         self.x = x
+#         self.y = y
+#
+#     def distance(self, punkt) -> float:
+#         return ((punkt.x - self.x)**2 + (punkt.y - self.y)**2)**1/2
+#
+#
+# class NazwanyPunkt:
+#     def __init__(self, x: float, y: float, nazwa: str) -> None:
+#         self.x = x
+#         self.y = y
+#         self.nazwa = nazwa
+#
+#
+# def main():
+#     a = Punkt(1, 2)
+#     b = NazwanyPunkt(2, 6, 'B')
+#     print(a.distance(b))
+#
+# if __name__ == "__main__":
+#     main()
 
-    def distance(self, punkt) -> float:
-        return ((punkt.x - self.x)**2 + (punkt.y - self.y)**2)**1/2
+#Zad 2
+class Adres:
+    def __init__(self, nr_domu: int, ulica: str, miasto: str, kod_pocztowy: str, nr_mieszkania=0) -> None:
+        self.nr_domu = nr_domu
+        self.ulica = ulica
+        self.nr_mieszkania = nr_mieszkania
+        self.miasto = miasto
+        self.kod_pocztowy = kod_pocztowy
 
+    def show(self):
+        print(self.nr_domu, self.ulica, "Numer mieszkania: ", self.nr_mieszkania)
+        print(self.kod_pocztowy, self.miasto)
 
-class NazwanyPunkt:
-    def __init__(self, x: float, y: float, nazwa: str) -> None:
-        self.x = x
-        self.y = y
-        self.nazwa = nazwa
+    def comes_before(self, other):
+        if int(other.kod_pocztowy[2:5]) < int(self.kod_pocztowy[2:5]):
+            return True
+        else:
+            return False
 
 
 def main():
-    a = Punkt(1, 2)
-    b = NazwanyPunkt(2, 6, 'B')
-    print(a.distance(b))
+    adres1 = Adres(11, "notak", "Sosnowiec", "24-131", 11)
+    adres2 = Adres(12, "nonie", "Olsztyn", "23-124")
+    adres1.show()
+    adres2.show()
+    print(adres2.comes_before(adres1))
+
 
 if __name__ == "__main__":
     main()
-
-#Zad 2
-# class Adres:
-#     def __init__(self, numer_domu,ulica,miasto,kod_pocztowy):
-#         self.numer = numer_domu
-#         self.nazwa_ulicy = ulica
-#         self.nazwa_miasta = miasto
-#         self.kod_poczta = kod_pocztowy
-#         self.numer_mieszkania = 0
-#
-#     def show(self):
-#         return f"{self.nazwa_ulicy}\n{self.kod_poczta} oraz {self.nazwa_miasta}"
-#
-#     ##def comes_before(self, other):
-#
-# adresik: Adres = Adres(16,'Warszawska','Olsztyn','07-402')
-#
-# print(adresik.show())
-
 #Zad 3
 # class SodaCan:
 #     def __init__(self,wysokosc: int = 15,promien: int = 3):
