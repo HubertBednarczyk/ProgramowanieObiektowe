@@ -12,12 +12,12 @@ class Vector:
         x1 = self.punkt1 - other
         x2 = self.punkt2 - other
         return f'{self.punkt1}-{other}={x1} {self.punkt2}-{other}={x2}'
-    def __mul__(self, other):
+    def __mul__(self,other):
         x1 = self.punkt1 * other
         x2 = self.punkt2 * other
         return f'{self.punkt1}*{other}={x1} {self.punkt2}*{other}={x2}'
-    def __eq__(self, other):
-        if self.punkt1 == other or self.punkt2 == other:
+    def __eq__(self):
+        if self.punkt1 == self.punkt2:
             return True
         else:
             return False
@@ -26,5 +26,9 @@ class Vector:
     def __getitem__(self, item):
         print(type(item),item)
     def __str__(self):
-        return f'{str(self.punkt1)} oraz {str(self.punkt2)}'
+        return '(%g, %g)' % (self.punkt1,self.punkt2)
+    # def norm(self):
+    def inner(self,otherpunkt1,otherpunkt2):
+        skalar = (self.punkt1 * self.punkt2)+(otherpunkt1*otherpunkt2)
+        return skalar
 

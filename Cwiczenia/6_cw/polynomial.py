@@ -4,7 +4,7 @@ class Polynomial:
     def __init__(self, coefficients):
         self.coefficients = coefficients
     def deg(self):
-        return 4
+        return len(self.coefficients)-1
     def __str__(self):
         self.coefficients = [5,4,3,0,1]
         return self.coefficients
