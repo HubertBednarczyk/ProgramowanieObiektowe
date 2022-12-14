@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zadanie2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="cw9" />
@@ -43,8 +43,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie2" />
+      <module name="cw9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie2" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
