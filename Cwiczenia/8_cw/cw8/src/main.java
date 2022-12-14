@@ -27,7 +27,7 @@ class Hello {
             dodawaniekwadratow += n;
 //            gdodawanie += n;
 //            gmnozenie *= n;
-            
+
         }
         System.out.println("Suma: " + suma);
         System.out.println("Iloczyn: " + iloczyn);
