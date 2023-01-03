@@ -152,7 +152,7 @@ class javaz01{
             System.out.println("Liczba: "+x);
         }
         int[] array = {10,5,30,25};
-        
+
     }
 
     public static void main(String[] args){
