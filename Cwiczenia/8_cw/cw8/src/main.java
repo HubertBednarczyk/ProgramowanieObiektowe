@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class javaz01{
+class Javaz01{
     public static void zadanie1A(){
         Scanner scan1 = new Scanner(System.in);
         System.out.println("Podaj liczbe n(1A) :");

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class zadanie2 {
+public class Zadanie2 {
     public static void zadanie2A(){
         Scanner scan1 = new Scanner(System.in);
         System.out.println("Podaj liczbe n(2A) :");
