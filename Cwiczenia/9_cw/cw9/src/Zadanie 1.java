@@ -8,6 +8,7 @@ class Main {
         Scanner s1 = new Scanner(System.in);
         System.out.println("Ile ma byc elementow tablicy: ");
         int n = s1.nextInt();
+
         int tab[] = new int[n];
         int parzyste = 0;
         int nieparzyste = 0;
